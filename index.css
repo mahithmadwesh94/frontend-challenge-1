@@ -1,0 +1,32 @@
+.card-1-bg {
+  background: hsl(31, 77%, 52%);
+  color: white;
+}
+
+.card-2-bg {
+  background: hsl(184, 100%, 22%);
+  color: white;
+}
+
+.card-3-bg {
+  background: hsl(179, 100%, 13%);
+  color: white;
+}
+
+.button1 {
+  color: hsl(31, 77%, 52%);
+}
+
+.button2 {
+  color: hsl(184, 100%, 22%);
+}
+
+.button3 {
+  color: hsl(179, 100%, 13%);
+}
+
+.active-button {
+  color: white !important;
+  background: none;
+  border-color: white;
+}
